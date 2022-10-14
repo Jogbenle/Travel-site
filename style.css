@@ -12,3 +12,7 @@
     background-position: center;
     background-attachment: fixed;
 }
+.header img{
+    width: 170px;
+    float: left;
+}
