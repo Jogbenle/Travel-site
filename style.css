@@ -65,9 +65,12 @@
 /*features*/
 
 .features{
-    padding: 100px 0;
+    padding: 100px 0 ;
 }
 h1{
     text-align: center;
     padding-bottom: 30px;
+}
+.feature-img img{
+    width: 100%;
 }
