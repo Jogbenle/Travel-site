@@ -61,3 +61,13 @@
     border-radius: 30px !important;
     box-shadow: none !important;
 }
+
+/*features*/
+
+.features{
+    padding: 100px 0;
+}
+h1{
+    text-align: center;
+    padding-bottom: 30px;
+}
