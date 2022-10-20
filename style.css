@@ -98,3 +98,7 @@ h1{
     right: 0;
     position: absolute;
 }
+.features .fa{
+    font-size: 15px;
+    color: #ff5722;
+}
