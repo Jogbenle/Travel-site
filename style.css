@@ -102,3 +102,7 @@ h1{
     font-size: 15px;
     color: #ff5722;
 }
+.feature-details{
+    padding: 20px;
+    text-align: justify;
+}
