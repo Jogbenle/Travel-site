@@ -106,3 +106,7 @@ h1{
     padding: 20px;
     text-align: justify;
 }
+.feature-details h4{
+    font-weight: 600;
+    margin-top: 20px;
+}
