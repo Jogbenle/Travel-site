@@ -84,4 +84,6 @@ h1{
     padding: 10px;
     box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
     position: absolute;
+    left: 20px;
+    bottom: -50px;
 }
