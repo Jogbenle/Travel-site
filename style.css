@@ -87,3 +87,6 @@ h1{
     left: 20px;
     bottom: -50px;
 }
+.feature-img{
+    position: relative;
+}
