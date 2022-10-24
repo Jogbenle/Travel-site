@@ -125,4 +125,8 @@ h1{
     width: 100%;
     border-radius: 10px;
     cursor: pointer;
+    transition: 1s;
+}
+.col-md-3 img:hover{
+    transform: scale(1.1);
 }
