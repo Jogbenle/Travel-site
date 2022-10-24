@@ -121,3 +121,8 @@ h1{
     padding: 100px 0;
     background: #efefef;
 }
+.col-md-3 img{
+    width: 100%;
+    border-radius: 10px;
+    cursor: pointer;
+}
