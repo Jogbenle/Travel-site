@@ -130,3 +130,8 @@ h1{
 .col-md-3 img:hover{
     transform: scale(1.1);
 }
+.col-md-3 h4{
+    width: 200px;
+    text-align: center;
+    font-weight:600; 
+}
