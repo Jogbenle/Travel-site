@@ -117,4 +117,7 @@ h1{
     box-shadow: 0 0 10px 1px rgba(37,73,214,0.18);
     margin-bottom: 30px;
 }
- 
+.gallery {
+    padding: 100px 0;
+    background: #efefef;
+}
