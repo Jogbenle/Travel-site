@@ -1,8 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: 'poppins', sans-serif;
 }
 .header{
     min-height: 100vh;
@@ -141,7 +139,17 @@ h1{
     left: 50%;
     transform: translate(-50%,-50%);
 }
-.col-md-3{
+.col-md-3 {
     position: relative;
     margin-bottom: 30px;
+}
+.banner{
+    height: 80%;
+    background-image: url(images/banner2.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.users-feedback{
+    padding: 100px 0;
 }
