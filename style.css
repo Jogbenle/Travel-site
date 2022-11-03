@@ -150,12 +150,14 @@ h1{
     background-size: cover;
     background-attachment: fixed;
     padding-top:14%; 
+    padding-bottom: 14%;
 }
 .banner-highlights{
     padding: 70px 0;
     background: rgba(0,0,0,0.7);
     text-align: center;
     color: white;
+    
 }
 .users-feedback{
     padding: 100px 0;
@@ -168,4 +170,5 @@ h1{
     border-radius: 50px;
     background: transparent;
     color: #fff;
+    margin-top: 20px;
 }
