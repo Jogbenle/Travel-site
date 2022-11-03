@@ -149,6 +149,13 @@ h1{
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
+    padding-top:14%; 
+}
+.banner-highlights{
+    padding: 70px 0;
+    background: rgba(0,0,0,0.7);
+    text-align: center;
+    color: white;
 }
 .users-feedback{
     padding: 100px 0;
