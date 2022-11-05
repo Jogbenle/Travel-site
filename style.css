@@ -159,9 +159,7 @@ h1{
     color: white;
     
 }
-.users-feedback{
-    padding: 100px 0;
-}
+
 .booking-btn{
     width: 120px;
     padding: 8px 0px;
@@ -171,4 +169,7 @@ h1{
     background: transparent;
     color: #fff;
     margin-top: 20px;
+}
+.users-feedback{
+    padding: 100px 0;
 }
