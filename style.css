@@ -191,10 +191,11 @@ h1{
 .user-review p::before{
     content: '\201d';
     display: block;
-    position: absolute;
+    position: relative;
     font-size: 100px;
     color: #6495ed;
     font-family: sans-serif;
-    margin-left: 80px;
     margin-top: -60px;
+    margin-bottom: -70px;
+    margin-left: 10%;
 }
