@@ -199,3 +199,8 @@ h1{
     margin-bottom: -70px;
     margin-left: 10%;
 }
+.footer{
+      padding: 100px 20px;
+    background-image: linear-gradient(#2d557d,#9610fb);
+    color: #fff;
+    }
