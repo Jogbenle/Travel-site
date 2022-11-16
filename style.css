@@ -204,3 +204,8 @@ h1{
     background-image: linear-gradient(#2d557d,#9610fb);
     color: #fff;
     }
+.footer-logo{
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
