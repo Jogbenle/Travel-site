@@ -214,3 +214,8 @@ h1{
     margin-top: 15px;
     margin-bottom: 25px;
 }
+.footer p{
+    font-size: 12px;
+    text-align: justify;
+    padding-right: 35px;
+}
